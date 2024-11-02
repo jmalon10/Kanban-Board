@@ -14,7 +14,7 @@ Do you have trouoble keeping track of all your tasks? do you often start a task 
 ## Installation
 Clone the repo in a safe folder by entering this in the console:
 ```bash
-git clone 
+git clone https://github.com/jmalon10/Kanban-Board.git
 ```
 ## Usage
 Visit the deployed web application by clicking [here](https://kanban-board-gsue.onrender.com)
