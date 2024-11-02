@@ -24,6 +24,10 @@ usernames:
 - SunnyScribe
 - RadiantComet
 all passwords are set as `password`
+![Screen Shot 2024-11-02 at 5 57 42 PM](https://github.com/user-attachments/assets/096dd52c-e107-4bee-a955-3a09a1ee6a14)
+2. View the Kanban-Board and create, edit and move cards as you please!
+  ![Screen Shot 2024-11-02 at 5 58 37 PM](https://github.com/user-attachments/assets/2e9906ea-98c8-4016-92f2-0d386865fcf2)
+
 ## License
 MIT License
 ## Questions
